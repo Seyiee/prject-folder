@@ -1,1 +1,1 @@
-# prject-folder
+# project-folder
